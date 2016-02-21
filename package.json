@@ -1,0 +1,11 @@
+{
+  "name": "Deferred Loader Plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Daniel Eissing (https://github.com/chunksnbits)",
+  "license": "MIT",
+  "devDependencies": {
+    "bluebird": "^3.3.1"
+  }
+}
