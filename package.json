@@ -1,6 +1,6 @@
 {
   "name": "deferred-loader-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "author": "Daniel Eissing <daniel.eissing@gmx.net> (https://github.com/chunksnbits)",
@@ -10,7 +10,7 @@
     "url": "https://github.com/chunksnbits/deferred-loader-plugin.git"
   },
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "bluebird": "^3.3.1"
   }
 }
