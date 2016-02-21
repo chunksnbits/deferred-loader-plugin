@@ -1,5 +1,5 @@
 {
-  "name": "Deferred Loader Plugin",
+  "name": "deferred-loader-plugin",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
