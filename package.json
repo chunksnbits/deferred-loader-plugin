@@ -1,6 +1,6 @@
 {
   "name": "deferred-loader-plugin",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "",
   "main": "index.js",
   "author": "Daniel Eissing <daniel.eissing@gmx.net> (https://github.com/chunksnbits)",
